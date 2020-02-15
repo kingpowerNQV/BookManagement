@@ -1,0 +1,5 @@
+C:\Users\vuong\OneDrive\Máy tính\BookManagement\BookManagementAPI\BookDataAccess\bin\Debug\netstandard2.0\BookDataAccess.deps.json
+C:\Users\vuong\OneDrive\Máy tính\BookManagement\BookManagementAPI\BookDataAccess\bin\Debug\netstandard2.0\BookDataAccess.dll
+C:\Users\vuong\OneDrive\Máy tính\BookManagement\BookManagementAPI\BookDataAccess\obj\Debug\netstandard2.0\BookDataAccess.csprojAssemblyReference.cache
+C:\Users\vuong\OneDrive\Máy tính\BookManagement\BookManagementAPI\BookDataAccess\obj\Debug\netstandard2.0\BookDataAccess.AssemblyInfoInputs.cache
+C:\Users\vuong\OneDrive\Máy tính\BookManagement\BookManagementAPI\BookDataAccess\obj\Debug\netstandard2.0\BookDataAccess.AssemblyInfo.cs
